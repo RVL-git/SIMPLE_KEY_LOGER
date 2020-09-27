@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\KeyLog\KeyLog\bin\Debug\KeyLog.exe.config
+C:\Users\Роман\source\repos\KeyLog\KeyLog\bin\Debug\KeyLog.exe
+C:\Users\Роман\source\repos\KeyLog\KeyLog\bin\Debug\KeyLog.pdb
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.Properties.Resources.resources
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.exe
+C:\Users\Роман\source\repos\KeyLog\KeyLog\obj\Debug\KeyLog.pdb
